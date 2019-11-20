@@ -1,0 +1,1 @@
+.\Invoke-AzureADBulkUserCreation.ps1 -Verbose
